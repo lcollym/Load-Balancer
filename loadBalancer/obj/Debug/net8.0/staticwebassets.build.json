@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/DxTayO0mYekgXKBWMyhZ9qL9qDBzHfBgSMnXNbdbgA=",
+  "Source": "loadBalancer",
+  "BasePath": "_content/loadBalancer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
